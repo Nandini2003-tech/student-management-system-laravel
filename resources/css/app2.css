@@ -1,0 +1,18 @@
+body{
+  /* background-color: #f8f9fa; */
+  background-color:red !important;
+   padding-top:58px;
+   font-family: "poppins", sans-serif;
+
+}
+.table th,
+.table td {
+    padding:8px;
+}
+
+.light-green {
+  background-color: #eef3f0;
+}
+.light-yellow {
+  background-color: #fcf8e3;
+}
